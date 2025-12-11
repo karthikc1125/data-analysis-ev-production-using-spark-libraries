@@ -51,9 +51,7 @@ The project demonstrates how Spark’s distributed computing power can be used i
 
 ---
 
-## 📁 Project Structure
 
-data-analysis-ev-production-using-spark-libraries/ │ ├── src/ │   ├── processing/       # Spark transformation logic │   ├── utils/            # Helper functions │   ├── index.ts          # Main Spark pipeline entry point │ ├── data/ │   ├── ev_data.csv       # Raw EV dataset │   ├── sample.json       # Test dataset │ ├── dist/                 # Compiled TypeScript output │ ├── spark-react-dashboard/ │   ├── src/              # React dashboard source code │   ├── public/ │   ├── package.json │   └── README.md │ ├── package.json ├── tsconfig.json └── README.md
 
 ---
 
